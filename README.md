@@ -90,9 +90,6 @@ amazon_sales_analysis/
 ✔ Exploration structurée des données
 ✔ Analyse des tendances de ventes (catégories, quantités, statuts, expédition)
 
-Parfait pour des postes de :
-**Data Analyst — Python**, **Business Analyst**, **Junior Data Engineer**, **Data Explorer**.
-
 
 ## 🚀 Exemple de code clé
 
