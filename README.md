@@ -1,4 +1,4 @@
-# **Amazon Sales Data Analysis — Nettoyage, Filtrage & Agrégation**
+# 📦 **Amazon Sales Data Analysis — Nettoyage, Filtrage & Agrégation**
 
 Ce projet consiste à analyser un dataset de ventes Amazon afin d’en extraire des **insights clés** sur les ventes, les catégories, les statuts de commande et les modes d’expédition.
 Réalisé dans un **cadre personnel d’apprentissage**, il met en pratique des compétences essentielles en **data analysis**, **pandas**, **data cleaning** et **exploration statistique**.
