@@ -82,13 +82,13 @@ amazon_sales_analysis/
 
 ## 🧠 Compétences démontrées
 
-✔ Nettoyage et préparation de données
-✔ Manipulation de DataFrames pandas
-✔ Filtrage & slicing avancé
-✔ Agrégations multi-indexes (groupby)
-✔ Exportation des résultats pour reporting
-✔ Exploration structurée des données
-✔ Analyse des tendances de ventes (catégories, quantités, statuts, expédition)
+- ✔ Nettoyage et préparation de données
+- ✔ Manipulation de DataFrames pandas
+- ✔ Filtrage & slicing avancé
+- ✔ Agrégations multi-indexes (groupby)
+- ✔ Exportation des résultats pour reporting
+- ✔ Exploration structurée des données
+- ✔ Analyse des tendances de ventes (catégories, quantités, statuts, expédition)
 
 
 ## 🚀 Exemple de code clé
